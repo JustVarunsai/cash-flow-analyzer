@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+PyPDF2
+python-dotenv
+requests
+matplotlib
+openpyxl
+xlsxwriter
+regex
+openai
